@@ -1,1 +1,89 @@
+#banneri{
+	position:relative;
+	height:20%;
+	width:100%;
+	top:0%;
+	//left:0;
+	right:0;
+	background-color:#5c545f;
+}
+#sivu{
+	position:relative;
+	top:20%;
+	bottom:0;
+	left:0;
+	right:0;
+	//background-color:yellow;
+}
+#rivi1{
+	margin-left:25%;
+	//margin-top:10%;
+}
 
+#rivi2{
+	margin-left:25%;
+}
+#bannerimenu ul {
+    list-style:none;
+	position:center;
+}
+
+#bannerimenu li {
+    display:inline;
+	//padding-left:10;
+	margin-left:5.5%;
+}
+
+#bannerimenu a{
+	color:black;
+	font-size:25;
+}
+
+#bannerimenu{
+	background-color:gray;
+	margin-top:40px;
+	width:50%;
+	margin-right:auto;
+	margin-left:auto;
+	//margin-left:25%;
+	//margin-right:25%;
+}
+
+#otsikko{
+	//margin-left:30%;
+	margin-top:30px;
+	color:white;
+	font-size:30;
+	text-align:center;
+}
+h4{
+	text-align:center;
+}
+.well{
+	background-color:;
+
+}
+
+.well:hover{
+	background-color:#cccccc;
+}
+
+#ylösNappi{
+	display:none;
+	position:fixed;
+	bottom:20px;
+	right:80px;
+	z-index:99;
+	border:none;
+	outline:none;
+	background-color:#cccccc;
+	color:black;
+	cursor:pointer;
+	padding:15px;
+	border-radius:15px;
+}
+
+#ylösNappi:hover{
+	background-color:#f5f5f5;
+}
+	
