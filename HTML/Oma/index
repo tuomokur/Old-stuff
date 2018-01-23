@@ -1,1 +1,33 @@
+<!docktype html>
+<meta charset="UTF-8">
 
+<html>
+<head>
+<title>Tää on otsikko</title>
+<body>
+
+	<h1>Tajuton jööbeli!</h1>
+	<hr>
+	<p>Tähän tulee tajutonta <strong>jöötiä</strong> 
+	eikä sille maha mitään<br>
+	<em>vinoa tekstiä</em></p>
+	
+
+	<a href="http://apu.fi"> Tässä on linkki jota naputella</a>
+
+	<br>
+	<a href="toinen.html"> Toisen sivun linkki</a>
+
+	<br>
+	<a href="pitkä.html">Pitkälle sivulle</a>
+	<br>
+	<a href="mailto:tuomokur@gmail.com" title="Lähetä mulle mailia ja vähän äkkiä!">Mailia tänne kiitos!</a>
+
+	
+
+	
+	
+	
+</body>
+</head>
+</html>
