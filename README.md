@@ -1,1 +1,1 @@
-# omia harjoittelukoodeja
+## Old stuff 
